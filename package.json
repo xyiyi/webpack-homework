@@ -1,0 +1,23 @@
+{
+  "name": "wkhk",
+  "version": "1.0.0",
+  "description": "你好啊",
+  "main": "index.js",
+  "scripts": {
+    "dev": "set NODE_ENV=dev && webpack"
+  },
+  "author": "xyy",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.28.4",
+    "extract-text-webpack-plugin": "^2.1.2",
+    "html-webpack-plugin": "^2.28.0",
+    "less": "^2.7.2",
+    "less-loader": "^4.0.4",
+    "style-loader": "^0.18.2",
+    "webpack": "^2.6.1"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
